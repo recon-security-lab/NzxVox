@@ -1,2 +1,2 @@
 # NzxVox
-## The NzxVox that Attack/OSINT Command Box for hardcore pentest Ops
+## The NzxVox is a vagrat box for Attack/OSINT, all for hardcore penetration Ops
